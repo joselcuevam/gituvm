@@ -2,11 +2,9 @@
 //
 //
 // Comments here added
-//
+// branch1 done
 //
 /////////////////////////////
-
-
 task testing_task;
  input a;
  input b; 
@@ -14,12 +12,10 @@ task testing_task;
 
  end
 endtask
-
-
 //////////////////////////////
 //
 //
-// new comments here added
-//
+//  added a new message here
+//  removed the previous one
 //
 /////////////////////////////
